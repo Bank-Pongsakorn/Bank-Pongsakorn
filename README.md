@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bank
 ============================================================================================================================
 
-I'ma frontend developer at @Foxbith. doing my things, coding and creating awesome stuff!!
+I'ma frontend developer at @Foxbith. doing my things, coding and creating awesome stuff!
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🧠  I'm diving into web dev stacks, like Typescript, Nextjs, Material-ui and Webflow!
