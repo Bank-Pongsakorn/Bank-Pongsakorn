@@ -27,5 +27,3 @@ I'ma frontend developer at @Foxbith. doing my things, coding and creating awesom
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Bank-Pongsakorn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
