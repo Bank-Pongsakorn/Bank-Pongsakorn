@@ -4,7 +4,7 @@ Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785
 I'm jr.frontend developer at @Foxbith. doing my things, coding and creating awesome stuff!
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🧠  I'm diving into web dev stacks, like Typescript, Nextjs, Material-ui and Webflow!
+* 🧠  I'm diving into web dev stacks, like Typescript, Nextjs, Material-UI !
 
 ### Skills
 
