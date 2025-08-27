@@ -1,10 +1,9 @@
 Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Bank
 ============================================================================================================================
 
-I'm Jr.Frontend Developer at @Foxbith. doing my things, coding and creating awesome stuff!
+I'm Frontend Developer at @Foxbith. doing my things, coding and creating awesome stuff!
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🧠  I'm diving into web dev stacks, like Typescript, Next.js and Material-UI !
 
 ### Skills
 
@@ -28,5 +27,3 @@ I'm Jr.Frontend Developer at @Foxbith. doing my things, coding and creating awes
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Bank-Pongsakorn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bank-Pongsakorn"/>
