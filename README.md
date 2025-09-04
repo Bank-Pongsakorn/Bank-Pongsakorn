@@ -63,10 +63,6 @@ Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785
 
 ###
 
-<img src="https://raw.githubusercontent.com/Bank-Pongsakorn/Bank-Pongsakorn/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Socials</h2>
 
 ###
