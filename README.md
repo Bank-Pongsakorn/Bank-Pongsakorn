@@ -68,6 +68,14 @@
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=apollo" height="40" alt="apollographql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=yarn" height="40" alt="yarn logo"  />
 </div>
 
 ###
