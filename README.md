@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Bank ✌🏻</h1>
+<h1 align="left">Hi, I'm Bank ✌🏻</h1> <img src="https://visitor-badge.laobi.icu/badge?page_id=Bank-Pongsakorn.Bank-Pongsakorn&"  />
 
 ###
 
@@ -101,5 +101,3 @@
 <div align="left">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bank-Pongsakorn&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
-
-###
