@@ -2,7 +2,15 @@
 
 ###
 
-<p align="left">I'm a Frontend Developer specializing in building web and mobile applications with<br>- Typescript<br>- React<br>- Next.js<br>- React Native<br>- Webflow<br><br><br>doing my things, coding and creating awesome stuff! 🧑🏻‍💻</p>
+<p align="left">I'm a Frontend Developer specializing in building web and mobile applications with</p>
+<li>Typescript</li>
+<li>React</li>
+<li>React Native</li>
+<li>Webflow</li>
+
+###
+
+<b>Doing my things, coding and creating awesome stuff!</b> 🧑🏻‍💻
 
 ###
 
