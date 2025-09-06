@@ -1,6 +1,7 @@
-Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Bank
-============================================================================================================================
+<h1 align="left">Hi, I'm Bank ✌🏻</h1>
+
 ###
+
 <p align="left">I'm a Frontend Developer specializing in building web and mobile applications with<br>- Typescript<br>- React<br>- Next.js<br>- React Native<br>- Webflow<br><br><br>doing my things, coding and creating awesome stuff! 🧑🏻‍💻</p>
 
 ###
@@ -71,6 +72,18 @@ Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785
   <a href="https://www.linkedin.com/in/pongsakorn-sillapapakdee-259536253/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="28" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=Bank-Pongsakorn&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=16&order=3" height="150" alt="streak graph"  /> 
+</div>
+
+###
+
+<div align="left">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bank-Pongsakorn&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
