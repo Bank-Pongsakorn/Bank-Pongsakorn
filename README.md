@@ -59,6 +59,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-plain.svg" height="40" alt="ant design logo"  />
   <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/strapi.svg" height="40" alt="strapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.prod.website-files.com/5f15081919fdf673994ab5fd/6609e72483b3cbc5f7631d49_Payload-Logo.svg" height="40" alt="payloadcms logo"  />
 </div>
 
 ###
