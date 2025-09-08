@@ -11,7 +11,7 @@
 ###
 
 <p>🛠️ Strong believer in best practices, clean code, and delivering maintainable solutions.</p>
-<p>🌱 Currently exploring Go and deepening my expertise in scalable frontend patterns.</p>
+<p>🌱 Currently exploring Go to be Full Stack Developer and deepening my expertise in scalable frontend patterns.</p>
 
 ###
 
