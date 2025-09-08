@@ -2,11 +2,16 @@
 
 ###
 
-<p align="left">I'm a Frontend Developer specializing in building web and mobile applications with</p>
+💻 Frontend Developer passionate about building high-quality web and mobile applications.
 <li>Typescript</li>
 <li>React</li>
 <li>React Native</li>
 <li>Webflow</li>
+
+###
+
+<p>🛠️ Strong believer in best practices, clean code, and delivering maintainable solutions.</p>
+<p>🌱 Currently exploring Go and deepening my expertise in scalable frontend patterns.</p>
 
 ###
 
