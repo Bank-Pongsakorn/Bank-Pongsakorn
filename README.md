@@ -2,11 +2,13 @@
 
 ###
 
-💻 Frontend Developer passionate about building high-quality web and mobile applications 🚀
-<li>Typescript</li>
-<li>React</li>
-<li>React Native</li>
-<li>Webflow</li>
+<p>💻 Frontend Developer passionate about building high-quality web and mobile applications 🚀</p>
+<ul>
+  <li>Typescript</li>
+  <li>React</li>
+  <li>React Native</li>
+  <li>Webflow</li>
+</ul>
 
 ###
 
