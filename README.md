@@ -112,13 +112,3 @@
 </div>
 
 ###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Bank-Pongsakorn&locale=en&mode=weekly&theme=react&hide_border=false&border_radius=16&order=3" height="150" alt="streak graph"  /> 
-</div>
-
-###
-
-<div align="left">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bank-Pongsakorn&radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=false&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
-</div>
