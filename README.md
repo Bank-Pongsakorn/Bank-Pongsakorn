@@ -1,7 +1,3 @@
-<h1 align="left">Hi, I'm Bank ✌🏻</h1> <img src="https://visitor-badge.laobi.icu/badge?page_id=Bank-Pongsakorn.Bank-Pongsakorn&"  />
-
-###
-
 <p>💻 Frontend Developer passionate about building high-quality web and mobile applications 🚀</p>
 <ul>
   <li>Typescript</li>
